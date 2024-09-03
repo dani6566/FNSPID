@@ -24,7 +24,7 @@ This project includes a detailed visualization comparing the sentiment analysis 
 
 <strong>Sentiment Scores:</strong> Visualized using a bar chart, where positive sentiment is marked in green, negative in red, and neutral in gray.
 <strong>Stock Prices:</strong> Plotted as a line graph showing the stock's opening prices over the same period.<br>
-[AAPL_Sentiment_vs_Price.html](AAPL_Sentiment_vs_Price.html)<br>
+[AAPL_Sentiment_vs_Price.html](./Notebooks/newplotA.png)<br>
 # Project Structure
 FNSPID/<br>
 ├── .vscode/<br>

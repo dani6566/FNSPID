@@ -19,6 +19,12 @@ Integrate financial news data with stock price data to improve predictive models
 <strong>Descriptive Statistics:</strong> Analyze the distribution of headline lengths, article counts per publisher, and trends in publication dates to understand the dataset's structure.<br>
 <strong> Text Analysis:</strong> Perform sentiment analysis on the news headlines to categorize them as positive, negative, or neutral. Additionally, extract common keywords and topics to identify significant market events or trends.<br>
 <strong>Time Series Analysis:</strong> Examine the temporal relationship between news publication frequency and stock price movements. Identify spikes in news activity that may correlate with market events.
+# Visualization of Sentiment Analysis vs. Stock Price
+This project includes a detailed visualization comparing the sentiment analysis of AAPL news articles with the corresponding stock prices. The interactive plot allows you to explore how sentiment scores (positive, negative, or neutral) correlate with the stock's opening prices over time.
+
+<strong>Sentiment Scores:</strong> Visualized using a bar chart, where positive sentiment is marked in green, negative in red, and neutral in gray.
+<strong>Stock Prices:</strong> Plotted as a line graph showing the stock's opening prices over the same period.<br>
+[AAPL_Sentiment_vs_Price.html](AAPL_Sentiment_vs_Price.html)<br>
 # Project Structure
 FNSPID/<br>
 ├── .vscode/<br>
